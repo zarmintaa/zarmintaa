@@ -8,8 +8,7 @@
 
 <img align="right" height="200em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarmintaa&theme=tokyonight&show_icons=true" /> 
 
-
-![Metrics](https://raw.githubusercontent.com/zarmintaa/zarmintaa/github-metrics/github-metrics.svg)
+![Metrics](https://github.com/zarmintaa/zarmintaa/blob/master/github-metrics.svg)
 
 <!-- 
 <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myzeus&layout=compact" />
