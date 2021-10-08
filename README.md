@@ -8,7 +8,7 @@
 <!--
 <img align="right" height="200em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarmintaa&theme=tokyonight&show_icons=true" />  -->
 
-![Metrics](https://metrics.lecoq.io/zarmintaa?template=classic&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FJakarta)
+![Metrics](https://raw.githubusercontent.com/zarmintaa/zarmintaa/github-metrics/github-metrics.svg)
 <!-- 
 <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myzeus&layout=compact" />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400" /> -->
