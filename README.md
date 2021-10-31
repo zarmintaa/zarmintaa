@@ -7,7 +7,7 @@
 <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarmintaa&layout=compact" />
 -->
 
-🛠 &nbsp;Tech Stack Study :
+🛠 &nbsp;Tech Stack :
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
