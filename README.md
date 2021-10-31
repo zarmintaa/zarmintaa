@@ -1,6 +1,6 @@
 # Holaa 👋
 
-<!--<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="220"> -->
+<!--<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="220"> 
 <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarmintaa&theme=tokyonight&show_icons=true" /> 
 
 <!--
