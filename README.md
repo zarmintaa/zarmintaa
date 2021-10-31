@@ -1,12 +1,22 @@
 # Holaa 👋
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="220" align="left">
+<!--<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="220"> -->
+<img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarmintaa&theme=tokyonight&show_icons=true" /> 
 
 <!--
 <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarmintaa&layout=compact" />
 -->
 
-<img align="right" height="200em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarmintaa&theme=tokyonight&show_icons=true" />  
+🛠 &nbsp;Tech Stack Study :
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+
 <!--
 ![Metrics](https://metrics.lecoq.io/zarmintaa?template=terminal&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FJakarta)-->
 <!-- 
