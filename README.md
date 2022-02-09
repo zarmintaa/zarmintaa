@@ -1,7 +1,7 @@
  # Holaa 👋 
 
 
-![Hello,  I'm currently learn and build web apps, rest api and more.](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=%20I%27m%20currently%20learn%20and%20build%20web%20apps%2C%20rest%20api%20and%20more.&title=Hello) -->
+![Hello,  I'm currently learn and build web apps, rest api and more.](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=%20I%27m%20currently%20learn%20and%20build%20web%20apps%2C%20rest%20api%20and%20more.&title=Hello) 
 <!--
 <!--<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="220"> 
 <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarmintaa&theme=tokyonight&show_icons=true" /> 
