@@ -1,4 +1,4 @@
-[Hello,  I'm currently learn to build web apps, rest api and more.](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=%20I%27m%20currently%20learn%20to%20build%20web%20apps%2C%20rest%20api%20and%20more.&title=Hello) 
+![Hello 👋, Hello,  I'm currently learn to build web apps, rest api and more.](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Hello%2C%20%20I%27m%20currently%20learn%20to%20build%20web%20apps%2C%20rest%20api%20and%20more.&title=Hello%20%F0%9F%91%8B)
 
  <!--![Hello,  I'm currently learn to build web apps, rest api and more.](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=%20I%27m%20currently%20learn%20to%20build%20web%20apps%2C%20rest%20api%20and%20more.&title=Hello) 
 
