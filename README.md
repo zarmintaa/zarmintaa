@@ -1,5 +1,5 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarmintaa&layout=compact&theme=tokyonight&show_icons=true" />
-<!-- ![Hello 👋, Hello,  I'm currently learn to build web apps, rest api and more.](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Hello%2C%20%20I%27m%20currently%20learn%20to%20build%20web%20apps%2C%20rest%20api%20and%20more.&title=Hello%20%F0%9F%91%8B)
+ ![Hello 👋, Hello,  I'm currently learn to build web apps, rest api and more.](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Hello%2C%20%20I%27m%20currently%20learn%20to%20build%20web%20apps%2C%20rest%20api%20and%20more.&title=Hello%20%F0%9F%91%8B)
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarmintaa&theme=tokyonight&show_icons=true" /> 
 ![Hello,  I'm currently learn to build web apps, rest api and more.](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=%20I%27m%20currently%20learn%20to%20build%20web%20apps%2C%20rest%20api%20and%20more.&title=Hello) 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarmintaa&theme=tokyonight&show_icons=true&layout=compact" /> 
@@ -41,7 +41,7 @@ Holaa 👋
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 klk
--->
+
 
 <!--
 ![Metrics](https://metrics.lecoq.io/zarmintaa?template=terminal&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FJakarta)-->
