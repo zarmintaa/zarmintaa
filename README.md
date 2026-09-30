@@ -1,4 +1,78 @@
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarmintaa&layout=compact&theme=tokyonight&show_icons=true" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Zarkasih!&fontSize=50&animation=fadeIn" />
+</div>
+
+<h3 align="center">Software Engineer | Backend & Data Engineering</h3>
+
+<div align="center">
+  <p>Building scalable enterprise architectures, crafting efficient data pipelines, and tinkering with modern frontend frameworks.</p>
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+- 💼 Experienced in developing **backend microservices**, **REST APIs**, and complex **database migrations**.
+- 🛠️ Deeply focused on **Java (Spring Boot), Go, SQL Server, and Oracle DB**.
+- 🚀 Building interactive user interfaces and web apps using **Vue.js, Nuxt 3, TypeScript, and Tailwind CSS**.
+- 📊 Passionate about data pipelines and infrastructure: **Docker, Redis, Apache Airflow, dbt, and Kafka**.
+- ⚡ **Fun fact:** When I'm off the keyboard, I'm usually training for my next half-marathon, following F1 & MotoGP race weekends, or vibing to Indonesian indie music.
+
+---
+
+### 💻 Tech Stack
+
+<details>
+  <summary><b>Backend & Databases</b></summary>
+  <br>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</details>
+
+<details>
+  <summary><b>Frontend & UI</b></summary>
+  <br>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Nuxt.js-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</details>
+
+<details>
+  <summary><b>Infrastructure, Data & Tools</b></summary>
+  <br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</details>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zarmintaa&show_icons=true&theme=transparent&hide_border=true&title_color=38B2AC&icon_color=38B2AC&text_color=777777" alt="zarmintaa's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zarmintaa&theme=transparent&hide_border=true&title_color=38B2AC&icon_color=38B2AC&text_color=777777" alt="zarmintaa's Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarmintaa&layout=compact&theme=transparent&hide_border=true&title_color=38B2AC&icon_color=38B2AC&text_color=777777" alt="Top Languages" />
+</div>
+
+---
+<div align="center">
+  <i>Let's connect and build something awesome!</i>
+</div>
+
+<!-- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarmintaa&layout=compact&theme=tokyonight&show_icons=true" /> -->
  <!-- ![Hello 👋, Hello,  I'm currently learn to build web apps, rest api and more.](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Hello%2C%20%20I%27m%20currently%20learn%20to%20build%20web%20apps%2C%20rest%20api%20and%20more.&title=Hello%20%F0%9F%91%8B)
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarmintaa&theme=tokyonight&show_icons=true" /> 
 ![Hello,  I'm currently learn to build web apps, rest api and more.](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=%20I%27m%20currently%20learn%20to%20build%20web%20apps%2C%20rest%20api%20and%20more.&title=Hello) 
