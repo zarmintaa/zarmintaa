@@ -57,20 +57,20 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zarmintaa&show_icons=true&theme=transparent&hide_border=true&title_color=38B2AC&icon_color=38B2AC&text_color=777777" alt="zarmintaa's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zarmintaa&theme=transparent&hide_border=true&title_color=38B2AC&icon_color=38B2AC&text_color=777777" alt="zarmintaa's Streak" />
-</div>
+<p align="center">
+  <a href="https://github.com/zarmintaa">
+    <img height="165px" src="https://github-readme-stats.vercel.app/api?username=zarmintaa&show_icons=true&theme=transparent&hide_border=true&title_color=38B2AC&icon_color=38B2AC&text_color=777777&cache_seconds=86400" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/zarmintaa">
+    <img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=zarmintaa&theme=transparent&hide_border=true&title_color=38B2AC&icon_color=38B2AC&text_color=777777" alt="GitHub Streak" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarmintaa&layout=compact&theme=transparent&hide_border=true&title_color=38B2AC&icon_color=38B2AC&text_color=777777" alt="Top Languages" />
-</div>
-
----
-<div align="center">
-  <i>Let's connect and build something awesome!</i>
-</div>
+<p align="center">
+  <a href="https://github.com/zarmintaa">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarmintaa&layout=compact&theme=transparent&hide_border=true&title_color=38B2AC&icon_color=38B2AC&text_color=777777&cache_seconds=86400" alt="Top Languages" />
+  </a>
+</p>
 
 <!-- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarmintaa&layout=compact&theme=tokyonight&show_icons=true" /> -->
  <!-- ![Hello 👋, Hello,  I'm currently learn to build web apps, rest api and more.](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Hello%2C%20%20I%27m%20currently%20learn%20to%20build%20web%20apps%2C%20rest%20api%20and%20more.&title=Hello%20%F0%9F%91%8B)
