@@ -58,18 +58,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/zarmintaa">
-    <img height="165px" src="https://github-readme-stats.vercel.app/api?username=zarmintaa&show_icons=true&theme=transparent&hide_border=true&title_color=38B2AC&icon_color=38B2AC&text_color=777777&cache_seconds=86400" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/zarmintaa">
-    <img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=zarmintaa&theme=transparent&hide_border=true&title_color=38B2AC&icon_color=38B2AC&text_color=777777" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zarmintaa&show_icons=true&theme=transparent&hide_border=true&title_color=38B2AC&icon_color=38B2AC&text_color=777777" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/zarmintaa">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarmintaa&layout=compact&theme=transparent&hide_border=true&title_color=38B2AC&icon_color=38B2AC&text_color=777777&cache_seconds=86400" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zarmintaa&theme=transparent&hide_border=true&title_color=38B2AC&icon_color=38B2AC&text_color=777777" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zarmintaa&layout=compact&theme=transparent&hide_border=true&title_color=38B2AC&icon_color=38B2AC&text_color=777777" alt="Top Languages" />
 </p>
 
 <!-- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarmintaa&layout=compact&theme=tokyonight&show_icons=true" /> -->
